@@ -1,2 +1,2 @@
 # My-second-python-encounter
-This wasfrom my study with 10alytics
+This was from my study with 10alytics
